@@ -1,0 +1,55 @@
+a{
+    color: blue;
+}
+
+h1{
+    transform: scale(1);
+    transition: 5s all;
+  
+    font-style: 50px;
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+    background-color: rgb(180, 126, 190);
+    border: 2px solid grey;
+    padding: 10px;
+    border-radius: 100px;
+    opacity: 0,9;
+    box-shadow:3px 2px #5e5b5f;
+   
+ 
+ }
+h1:hover{
+    border:10px solid gray; 
+    transform: rotate(90 deg) scale(1);
+}
+h2:hover{
+    font-style: 50px;
+    color: black;
+    font-style: italic;
+    font-weight: bold; 
+}
+p:hover{
+    font-size: 20px;
+    font-weight: 100;
+    color: black;
+    font-style: italic;
+    font-weight: 400px;
+}
+
+body{
+    background-color: #dadce4;
+    color: black;
+    padding: 15px;
+    margin: 20px;
+    border: 7px solid gray;
+    text-align: center;
+    background-image: url(images/1.jpg);
+}
+picture{
+    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
