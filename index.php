@@ -29,7 +29,7 @@ require "include/config.php";
                     <ul>
                      <li><a href="/">Home</a></li>
                      <li><a href="/pages/about_me.php">About me</a></li>
-                     <li><a href="https://www.youtube.com/channel/UCMgsbMAF60zR7G9rXsY7yeQ/featured" target="blank">I'm in Youtube</a></li>
+                     <li><a href="https://www.youtube.com/somebody" target="blank">I'm in Youtube</a></li>
                     </ul>
                   </nav>
                 </div>
