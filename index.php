@@ -116,13 +116,24 @@ which can help in creation videos. <br/>Also has place possibility to apply musi
                     <h1><?php echo $config['title']; ?></h1>
                 </div>
                 <nav class="header_top_menu">
-                    <ul>
-                     <li><a href="#">Home</a></li>
-                     <li><a href="#">About me</a></li>
-                     <li><a href="#">I'm in Youtube</a></li>
-                     <li><a href="#">Copyright holders</a></li>
-                    </ul>
-                  </nav>
+                <a href="#"><i class="fa fa-envelope"></i>support@company.com</a>
+                            </ul>
+                          </address>
+                        </div>
+                            <div class="col-md-3">
+                                    <div class="headline"><p>Company</p></div>
+                                    <ul class="list-unstyled link-list">
+                            <li><a href="#">About Us</a></li>
+                            <li> <a href="#">Privacy Policy</a></li>
+                            <li><a href="#">Terms of Use</a></li>
+                            <li><a href="#">FAQs</a></li>
+                            <li><a href="#">Cancellation/Rescheduling policy</a></li>
+                          </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
+     </footer>
 </body>
 </html>
